@@ -1,0 +1,77 @@
+{
+  "generated_at_utc": "2026-03-10T23:02:51Z",
+  "source": "acuity + dynamic_pricing_v0",
+  "tax_rate": 0.12,
+  "boats": {
+    "hurricane-ss218": {
+      "name": "Hurricane SS218",
+      "half_day": {
+        "appointment_id": 5223072,
+        "price_total": 481.6,
+        "price_pre_tax": 430.0
+      },
+      "full_day": {
+        "appointment_id": 5223066,
+        "price_total": 599.2,
+        "price_pre_tax": 535.0
+      },
+      "currency": "USD"
+    },
+    "hurricane-ss201-2": {
+      "name": "Hurricane SS201 (#2)",
+      "half_day": {
+        "appointment_id": 21618885,
+        "price_total": 442.4,
+        "price_pre_tax": 395.0
+      },
+      "full_day": {
+        "appointment_id": 21618863,
+        "price_total": 599.2,
+        "price_pre_tax": 535.0
+      },
+      "currency": "USD"
+    },
+    "key-west-203fs": {
+      "name": "Key West 203FS",
+      "half_day": {
+        "appointment_id": 5445638,
+        "price_total": 554.4,
+        "price_pre_tax": 495.0
+      },
+      "full_day": {
+        "appointment_id": 5445634,
+        "price_total": 677.6,
+        "price_pre_tax": 605.0
+      },
+      "currency": "USD"
+    },
+    "nautic-star-243dc": {
+      "name": "Nautic Star 243dc",
+      "half_day": {
+        "appointment_id": 6357790,
+        "price_total": 621.6,
+        "price_pre_tax": 555.0
+      },
+      "full_day": {
+        "appointment_id": 6357784,
+        "price_total": 756.0,
+        "price_pre_tax": 675.0
+      },
+      "currency": "USD"
+    },
+    "crest-caribbean-250sl": {
+      "name": "Crest Caribbean 250 SL",
+      "half_day": {
+        "appointment_id": 11501662,
+        "price_total": 632.8,
+        "price_pre_tax": 565.0
+      },
+      "full_day": {
+        "appointment_id": 11501656,
+        "price_total": 756.0,
+        "price_pre_tax": 675.0
+      },
+      "currency": "USD"
+    }
+  }
+}
